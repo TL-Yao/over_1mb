@@ -127,7 +127,7 @@
       "dev-env/*",
       "examples/*"
     ]
-  }
+  },
   "engines": {
     "node": ">= 0.10.0",
     "npm": ">= 6.2.0"
