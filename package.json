@@ -84,7 +84,7 @@
     "boom": "",
     "tinymce": "4.2.3",
     "console-io": "2.6.3",
-    "angular": "1.3.19",
+    "angular": "1.8.0",
     "cookie-signature": "1.0.2",
     "handlebars-ex": "0.0.2",
     "github-url-to-object": "^1.6.0",
